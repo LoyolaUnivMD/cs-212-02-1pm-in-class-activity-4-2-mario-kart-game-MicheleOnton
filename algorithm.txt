@@ -1,1 +1,5 @@
-THINK before you code...
+1. create the class
+2. initialize the variables
+3. create a constructor to pass in the values
+4. create a method to increase the speed
+5. create a method to display the features of the character

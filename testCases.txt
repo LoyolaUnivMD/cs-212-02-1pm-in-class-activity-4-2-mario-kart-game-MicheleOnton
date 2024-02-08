@@ -1,1 +1,5 @@
-Test cases go here. 
+Mario Kart!
+Player Name: Julio
+Character: Mario
+Speed: 10
+Julio speed after boost: 15
